@@ -1,2 +1,4 @@
 # hello-world
-Start for GItHub
+Start for GitHub
+
+Hi, I'm midori.
